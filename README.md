@@ -1,6 +1,5 @@
 # SQL Analytics Toolkit
 
-![CI](https://github.com/geethalakshmi579/sql-analytics-toolkit/actions/workflows/ci.yml/badge.svg)
 
 A portfolio demo of the analytics SQL patterns I use most in data engineering
 and solutions work: cohort retention, funnel conversion, window-function
